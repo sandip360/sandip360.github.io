@@ -1,0 +1,65 @@
+  #section1 {padding-top:50px;height:100%;color: #fff;  background-color: #9966CC;}
+  #section2 {padding-top:50px;height:100%;color: #fff; background-color: #2ECC71;}
+  #section3 {padding-top:50px;height:100%;color: #fff; background-color: #ff9800;}
+  #section4 {padding-top:50px;height:100%;color: #fff; background-color: #00bcd4;}
+  #section5 {padding-top:50px;height:500px;color: #fff; background-color: #009688;}
+  
+/*body {
+      position: relative; 
+}*/
+blockquote.quote {
+  color:black;
+}
+
+a.btn{ 
+	text-decoration: none;
+}
+ 
+.modcontainer {
+ 	position: relative;
+    width: 100%;
+ }
+.blkbrd {
+  width: 100%;
+}
+.logo {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+{
+	font-size:500%;
+}
+h2.heading{
+	font-family: "comic sans ms";
+	color: pink;
+}
+table {
+  color:blue;
+  font-weight: bold;
+}
+thead {
+  color:green;
+}
+.text {
+  vertical-align: text-top;
+  color:black;
+}
+
+.social-icon {
+  color: #fff;
+  cursor: pointer;
+  margin: 5px;
+  width: 35px;
+  height: 35px;
+  text-align: center;
+  padding-top: 10px;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+.twitter_icon { background-color:#1abfdf; }
+.twitter_icon:hover, .twitter_icon:focus { background-color: #0C98B3; }
+.facebook_icon { background-color:#527ebf; }
+.facebook_icon:hover, .facebook_icon:focus { background-color: #2B538D; }
